@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilt Live Data</string>
+    <string name="enter_keyword_to_search">Enter keyword to search</string>
+    <string name="people">People</string>
+</resources>
